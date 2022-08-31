@@ -1,7 +1,7 @@
 # email_campaign
 Email campaign project
 
-#Target:
+## Target:
 Create email campaign Spring Boot project to have the following functions:
 1. Send email from support@vibrant-america.com to recipients below.
 2. Use attached 'Email Content.html' as the email body
@@ -12,14 +12,14 @@ Create email campaign Spring Boot project to have the following functions:
 
    a. Use SendGrid API call. 
       https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/authentication      
-   b. Send SMTP request to SendGrid using Java (Bonus)
+   b. Send SMTP request to SendGrid using Java **(Bonus)**
    NOTE: You should get SendGrid API from interviewer.
-6. Collect email campaign statistics (Bonus). Including:
+6. Collect email campaign statistics **(Bonus)**. Including:
    a. Deliver rate
    b. Open rate
    c. Bounce rate
    
-#Recipients
+## Recipients
 | First name| Email| Last visit date |
 | -------------| ------------- | ------------- |
 | Kang  | kang@vibrantsci.com  | 10/12/2021 |
