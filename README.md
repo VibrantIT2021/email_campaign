@@ -13,7 +13,8 @@ Create email campaign Spring Boot project to have the following functions:
    a. Use SendGrid API call. 
       https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/authentication      
    b. Send SMTP request to SendGrid using Java **(Bonus)**
-   NOTE: You should get SendGrid API from interviewer.
+   
+   ### NOTE: You should get SendGrid API from interviewer.
 6. Collect email campaign statistics **(Bonus)**. Including:
    a. Deliver rate
    b. Open rate
