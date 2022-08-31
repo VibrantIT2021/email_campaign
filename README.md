@@ -18,7 +18,7 @@ Create email campaign Spring Boot project to have the following functions:
    b. Open rate
    c. Bounce rate
    
-Recipients
+#Recipients
 | First name| Email| Last visit date |
 | -------------| ------------- | ------------- |
 | Kang  | kang@vibrantsci.com  | 10/12/2021 |
