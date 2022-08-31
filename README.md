@@ -9,6 +9,7 @@ Create email campaign Spring Boot project to have the following functions:
 4. Update email content with receipent's information.
 ![image_processing](https://github.com/VibrantIT2021/email_campaign/blob/405df21b217efd70387bf6bb50a70735411a5b27/Update%20email%20content%20with%20recipient's%20info.JPG)
 5. Use SendGrid to send emails in two ways: 
+
    a. Use SendGrid API call. 
       https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/authentication      
    b. Send SMTP request to SendGrid using Java (Bonus)
